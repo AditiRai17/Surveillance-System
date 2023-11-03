@@ -17,3 +17,5 @@ This code represents the foundation of a Surveillance System, which can be a hig
 
 ### os (Operating System Interface): 
     The os library is used to interact with the operating system, facilitating tasks like listing files in the current directory and managing file operations.
+
+## In Cybersecurity -> Security Audits: Surveillance footage can be used for security audits and compliance purposes. 
